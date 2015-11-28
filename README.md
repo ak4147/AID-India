@@ -9,3 +9,4 @@ Team - Yogeswaran Thulasidoss
        
 Problem Statement: Our opportunity is to aid in creation of an android app that will help teachers to keep track of the skills of children in every center
   
+Solution: We are going to create web services to establish a communication between the app and database, and hence generate reports regarding the skills of the children.
